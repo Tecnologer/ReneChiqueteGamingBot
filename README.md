@@ -18,4 +18,4 @@
 - To get the configured users in the chat user: `/getusers`
 - The command to remove a user is `/removeuser <username>`
 
-[1]: t.me/ReneChiqueteGamingBot
+[1]: https://t.me/ReneChiqueteGamingBot
